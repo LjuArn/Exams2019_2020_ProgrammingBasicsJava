@@ -1,3 +1,1 @@
-# Test2020
-Test repo 2020
-This is new line.
+# Exams2019_2020_ProgrammingBasicsJava
